@@ -416,3 +416,5 @@ Nesse endpoint podemos atualizar qualquer dado do usuário, e a senha também, p
 
 ---
 Feito com ♥ by araujooj :wave:
+
+
